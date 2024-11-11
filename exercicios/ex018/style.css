@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+background-color: rgba(89, 180, 150, 0.692);
+    font: 1.2em arial;
+    color: rgb(92, 182, 152);
+}
+#principal{
+ color: aquamarine;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white
+}
+p{
+    color: black;
+}

@@ -8,6 +8,7 @@ header{
     background-image: linear-gradient(to bottom, #3CD680 , #0F7A2A );
     padding: 7px;
     box-shadow:3px 2px 5px rgba(0, 0, 0, 0.288); 
+    width: auto;
 }
 header>h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;

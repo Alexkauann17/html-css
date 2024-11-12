@@ -5,7 +5,7 @@ body{
     padding: 0px;
 }
 header{
-    min-width: 850px;
+    min-width: 800px;
     background-image: linear-gradient(to bottom, #3CD680 , #0F7A2A );
     padding: 7px;
     box-shadow:3px 2px 5px rgba(0, 0, 0, 0.288); 
@@ -87,7 +87,7 @@ footer {
     color: white;
     background-color: #0F7A2A;
     padding: 1px;
-    min-width: 850px;
+    min-width: 800px;
     
 }
 footer > p {

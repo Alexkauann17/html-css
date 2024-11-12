@@ -84,4 +84,12 @@ img{
     height: 400px;
     padding: 25px;
 }
-
+footer {
+    color: white;
+    background-color: #0F7A2A;
+    padding: 1px;
+    
+}
+footer > p {
+    text-align: center;
+}
